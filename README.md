@@ -1,13 +1,6 @@
 # Jade Lam | Art Direction & Visual Storytelling | Portfolio 2026
 Explore Jade Lam's creative portfolio across conceptual design, campaign art direction, immersive experiences and motion graphics. Created for Thinkingbox's Junior Art Director application.
 
-**Selected Creative Work 2026**
-
-Portfolio curated for the Junior Art Director position at Thinkingbox, London.
-
-## View Portfolio
-
-[Explore the full portfolio →](https://designjade.github.io/junior-art-director-thinkingbox-portfolio/)
 
 ## About
 
